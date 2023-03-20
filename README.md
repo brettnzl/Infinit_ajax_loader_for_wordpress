@@ -35,11 +35,11 @@ The behavior of the "Load More" button is controlled by the `rd_load_more_ajax_h
 
 ## Support
 
-If you encounter any issues with RD Pagination or have any questions, please open an issue on the [GitHub repository](https://github.com/yourusername/rd-pagination).
+If you encounter any issues with RD Pagination or have any questions, please open an issue on the [GitHub repository](https://github.com/brettnzl/rd-pagination).
 
 ## Credits
 
-RD Pagination was created by [Your Name](https://github.com/yourusername). It is released under the [MIT License](https://opensource.org/licenses/MIT).
+RD Pagination was created by Brett Ransley @ (https://revibe.digital/). It is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Changelog
 
