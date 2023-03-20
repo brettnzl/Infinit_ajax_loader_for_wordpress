@@ -1,6 +1,4 @@
-# Infinit_ajax_loader_for_wordpress
-
-# RD Pagination - Infinite Scroll for WordPress
+# RD Pagination - Infinite Scroll for WordPress - Infinit_ajax_loader_for_wordpress
 
 RD Pagination is a WordPress plugin that replaces traditional pagination with an infinite scroll that loads more posts via AJAX. It is designed to be easy to use and customizable, and can be added to any WordPress theme with minimal setup.
 
@@ -15,9 +13,12 @@ RD Pagination is a WordPress plugin that replaces traditional pagination with an
 2. Extract the plugin folder to your theme's "includes" directory, e.g. `wp-content/themes/my-theme/includes/rd-pagination`.
 3. Add the following line to your theme's `functions.php` file:
 
-include get_template_directory() . '/includes/rd-pagination/rd-pagination.php';
+`include get_template_directory() . '/includes/rd-pagination/rd-pagination.php';`
 
 4. Use the `[rd_pagination]` shortcode on any post, archive, or taxonomy page to display the "Load More" button.
+
+5. Update line 41 - 43 in rd-pagination if you want to alter the post template that is outputted. 
+6. Edit line 25 `$('#post-ajax-container').append(response);` to change where it outputs
 
 ## Usage
 
