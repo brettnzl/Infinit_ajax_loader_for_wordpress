@@ -1,4 +1,4 @@
-# RD Pagination - Infinite Scroll for WordPress - Infinit_ajax_loader_for_wordpress
+# RD Pagination - Infinite Scroll for WordPress
 
 RD Pagination is a WordPress plugin that replaces traditional pagination with an infinite scroll that loads more posts via AJAX. It is designed to be easy to use and customizable, and can be added to any WordPress theme with minimal setup.
 
